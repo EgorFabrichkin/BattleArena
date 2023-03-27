@@ -1,0 +1,16 @@
+Arena
+    Player
+        PlayerController
+            Input
+                JoystickInput
+    
+    RestoreFall +/-
+        triggerZone
+        change position player in random place more distance enemies
+    
+    Projectile
+        Random Bounce Chance correlate with playerHealth (0 - 100%)
+            Bounced projectile
+                if enemy killed player a little bit power or half health  
+            
+        
